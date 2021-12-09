@@ -19,6 +19,9 @@ Puedes modificar el archivo directamente desde aquí en GitHub o descargarlo en 
 
 Con esto se publicará tu repositorio y en esa dirección podrás revisar las actualizaciones que hagas. Es importante que cada que hagas una modificación revises como se actualiza tu página ya que podrías generar algunos errores.
 
+Pagina
+https://bc-may-21-ror.github.io/kata-03-scorecard-javs1/
+
 ## Nombre
 
 1. Ubica el apartado `name` y escribe tu primer nombre y apellido, por ejemplo: Juan Pérez
