@@ -15,7 +15,7 @@ sidebar:
   email: javierverduzco13@gmail.com
   phone:
   website: # No agregar http://
-  linkedin: Javier Verduzco
+  linkedin: https://www.linkedin.com/in/javier-verduzco-4396b91a3
   github: javs1
   gitlab:
   bitbucket:
@@ -29,7 +29,7 @@ sidebar:
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
       
     - idiom: English
-      level: Upper intermediate (583 TOEFL score) # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Upper intermediate 583 TOEFL score # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
@@ -37,13 +37,25 @@ sidebar:
     - item: Communication
       link: # dejar en blanco
 
+    - item: Helpfulness
+      link: # dejar en blanco
+
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Conlfict Resolution
+    - item: Patience
+      link: # dejar en blanco
+
+    - item: Accountability
+      link: # dejar en blanco
+
+    - item: Problem solving
       link: # dejar en blanco
 
     - item: Creative Thinking
+      link: # dejar en blanco
+
+    - item: Open-mindedness
       link: # dejar en blanco
 
     - item: Time Management
@@ -73,8 +85,7 @@ educationcomplete:
         - Ruby and Ruby on Rails
 
   - degree: Javascript Full Stack Web Development
-    university: BEDU
-    certificate: https://www.credly.com/badges/aff46b8d-96dc-4ee0-9d2a-d2434a4accdb/public_url
+    university: BEDU (https://www.credly.com/badges/aff46b8d-96dc-4ee0-9d2a-d2434a4accdb/public_url)
     time: 2020 Jun - Dec
     details: |
       Full Stack Bootcamp
@@ -98,8 +109,8 @@ experiences:
         - Web Development using WordPress
 
   - role: Data Capturer (Unpaid Intern)
-    time: 2020 May - Oct
-    company: ICEC (Municipal Goverment)
+    time: 2020 Apr - Sept
+    company: ICEC (Municipal Goverment), Colima, Colima
     details: |
       My role was to Capture data in Excel sheets and a Goverment sistem, use Excel formulas to get 
       information and make diagrams to represent that information in a power point presentation.
