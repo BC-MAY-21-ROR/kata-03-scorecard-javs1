@@ -29,7 +29,7 @@ sidebar:
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
       
     - idiom: English
-      level: Upper intermediate 583 TOEFL score # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: B2-C1 607 TOEFL ITP score # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
@@ -77,7 +77,7 @@ educationcomplete:
 
   - degree: Ruby on Rails Web Development
     university: BrightCoders
-    time: 2021 Nov - Current
+    time: 2021 Nov - 2022 March
     details: |
       Ruby on Rails Bootcamp
 
@@ -88,7 +88,7 @@ educationcomplete:
     university: BEDU (https://www.credly.com/badges/aff46b8d-96dc-4ee0-9d2a-d2434a4accdb/public_url)
     time: 2020 Jun - Dec
     details: |
-      Full Stack Bootcamp
+      Javascript Bootcamp
 
         - Web Development
         - Javascript
@@ -102,7 +102,7 @@ experiences:
     time: 2021 Jan - Apr
     company: Sistemas Volcano, Colima, Villa de alvarez
     details: |
-      My role in this company was to comunicate with the client or a company to make the web pages as they wanted.
+      My role in this company was to comunicate with a client or a company to make web pages according to their requirements.
       Most of the time we used WordPress for simple web pages that didn't need a lot of functions, but 
       we used an entire stack of tecnologies for databases sistems like storage or service sistems.
         - Web Development using PHP, MySQL and frameworks like Bootstrap
@@ -112,8 +112,8 @@ experiences:
     time: 2020 Apr - Sept
     company: ICEC (Municipal Goverment), Colima, Colima
     details: |
-      My role was to Capture data in Excel sheets and a Goverment sistem, use Excel formulas to get 
-      information and make diagrams to represent that information in a power point presentation.
+      My role was to Capture data in Excel sheets and use a Goverment data sistem, use Excel formulas to get 
+      information and make diagrams to represent that information presentations.
         - Excel formulas and data analisis
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
@@ -129,25 +129,25 @@ skills:
     - name: Javascipt
       level: 60%
 
+    - name: Ruby
+      level: 60%
+
     - name: Bootstrap
       level: 60%
 
-    - name: Ruby
+    - name: MySQL
       level: 40%
 
     - name: C/C++
-      level: 40%
-     
-    - name: MySQL
       level: 40%
 
     - name: Node.js
       level: 40%
 
-    - name: React
+    - name: PHP
       level: 20%
 
-    - name: PHP
+    - name: React
       level: 20%
 
 # NO MODIFICAR
